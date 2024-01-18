@@ -14,7 +14,7 @@ doesn't scale.
 
 We could automate the creation of sample exercises by building a function that
 accepts an array of notes. The function parses the notes and generates music
-notation, so that adding a new sample exercises is as straightforward as
+notation, so that adding a new sample exercise is as straightforward as
 creating an array of objects in code.
 
 A note could have these base properties (using JSDoc for typing here):
