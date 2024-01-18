@@ -99,7 +99,7 @@ There _is_ a
 [Flutter notation project](https://github.com/rodydavis/sheet_music) I found,
 but it is unmaintained with seemingly lots of issues.
 
-## Music fonts
+## Music fonts
 
 Instead of using a notation package, I considered trying to build my own engine
 and using a music font to generate the visual aspect. However, this also felt
